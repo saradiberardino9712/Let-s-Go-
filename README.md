@@ -1,6 +1,5 @@
 # Let's Go!
 
-
-Repository Documentazione url:
-Repository Server url:
-Repository Applicazione url:
+#Repository Documentazione url:
+#Repository Server url:
+#Repository Applicazione url:
